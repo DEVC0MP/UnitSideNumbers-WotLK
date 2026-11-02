@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: UnitSideNumbers
 ## Notes: Boczne liczby HP/Power dla player/target/focus (WotLK 3.3.5a)
-## Author: MRWH1TE117
+## Author: DEVC0MP
 ## Version: 1.7.1
 UnitSideNumbers.lua
